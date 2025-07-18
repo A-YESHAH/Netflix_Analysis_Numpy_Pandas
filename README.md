@@ -4,9 +4,9 @@ The dataset used is: netflix_titles.xlsx
 It contains metadata for Netflix content including titles, genres, countries, release year, date added, type (Movie or TV Show), duration, and more.
 
 # Technologies Used
-Python 3.x
-Pandas
-NumPy
+Python 3.x, 
+ Pandas, 
+ NumPy
 
 # Key Operations Performed
 # 1. Data Loading & Overview
