@@ -1,4 +1,4 @@
-# Netflix_Analysis_Numpy_Pandas
+# Netflix Analysis Numpy Pandas
 This project performs a basic exploratory data analysis (EDA) on the Netflix dataset using Python, Pandas, and NumPy. It demonstrates how to clean, transform, and analyze data to extract insights about content trends, top genres, popular countries, and content growth over time.
 The dataset used is: netflix_titles.xlsx
 It contains metadata for Netflix content including titles, genres, countries, release year, date added, type (Movie or TV Show), duration, and more.
